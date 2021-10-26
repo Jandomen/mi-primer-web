@@ -1,0 +1,76 @@
+body {
+   background: rgb(99, 233, 121); 
+   margin: 0;
+}
+
+header {
+    background: rgb(255, 251, 0);
+    height: 70px;
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+
+.caja {
+    display: inline-block;
+    
+}
+
+h2 {
+    margin: 0 ;
+    padding: 22px;
+    padding-left: 45%;
+}
+
+label {
+    font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input, button {
+    margin: 10px;
+    border-radius: 4px;
+}
+
+#p1 {
+    background:chartreuse;
+    width: 300px;
+    height: 300px;
+    border: 2px black solid;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+#p2 {
+    background: chartreuse;
+    width: 300px;
+    height: 300px;
+    border: 2px black solid;
+    border-radius: 5px;
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+
+footer {
+    background: cornsilk;
+    height: 80px;
+    margin: 0px;
+    display: flex;
+}
+
+.f1 {
+    margin-right: auto;
+    padding-right: 15px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.f2 {
+    margin-top: 30px;
+    margin-right: 50px;
+    
+}
